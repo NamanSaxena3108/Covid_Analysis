@@ -10,7 +10,9 @@ This dashboard provides an interactive analysis of COVID-19 data, focusing on ke
 * Responsive and Interactive Visuals: Easy-to-use graphs, charts, and tables.
 
 # Screen Shot
-![Proj](https://1drv.ms/i/c/3dcccfd97ce5d93a/EW3UROZe8LZKgw5ZRYIgoP0BpVrkL8-yzgjDy15RxsMQqQ?e=rXp32d)
+![proj](https://github.com/user-attachments/assets/5ba64fc2-9887-46d8-a314-ef41ad6085ae)
+![proj1](https://github.com/user-attachments/assets/e2ede21f-8398-4e1e-a3ae-6760a033cad6)
+
 # Run 
 * It is required to install all things mentioned in requirements.py
 * pip install streamlit
