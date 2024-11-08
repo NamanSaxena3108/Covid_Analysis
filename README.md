@@ -9,6 +9,8 @@ This dashboard provides an interactive analysis of COVID-19 data, focusing on ke
 * Data Filtering: Filter data based on location, date range, or severity to customize the analysis.
 * Responsive and Interactive Visuals: Easy-to-use graphs, charts, and tables.
 
+# Screen Shot
+![Proj](https://1drv.ms/i/c/3dcccfd97ce5d93a/EW3UROZe8LZKgw5ZRYIgoP0BpVrkL8-yzgjDy15RxsMQqQ?e=rXp32d)
 # Run 
 * It is required to install all things mentioned in requirements.py
 * pip install streamlit
