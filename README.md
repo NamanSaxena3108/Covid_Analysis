@@ -8,3 +8,8 @@ This dashboard provides an interactive analysis of COVID-19 data, focusing on ke
 * Comparative Analysis: Compare data between different regions, countries, or states.
 * Data Filtering: Filter data based on location, date range, or severity to customize the analysis.
 * Responsive and Interactive Visuals: Easy-to-use graphs, charts, and tables.
+
+#Run 
+* pip install streamlit
+* to run write this in terminal - streamlit run dashboard.py
+
