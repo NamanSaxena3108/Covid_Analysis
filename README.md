@@ -14,9 +14,15 @@ This dashboard provides an interactive analysis of COVID-19 data, focusing on ke
 ![proj1](https://github.com/user-attachments/assets/e2ede21f-8398-4e1e-a3ae-6760a033cad6)
 
 # Run 
-* It is required to install all things mentioned in requirements.py
-* pip install streamlit
-* to run write this in terminal - streamlit run dashboard.py
+* First Install this to run the program
+```bash
+pip install requirements.txt
+```
+* to run write this in terminal 
+```bash
+streamlit run dashboard.py
+```
+
 
 # Files
 *  analysis.ipynb :- Contains the data analysis and preprocessing of the data.
